@@ -57,7 +57,7 @@ class App extends Component {
                         </div>
                     </div>
                 </div>
-            )
+            ) 
         })
         return (                                            //Solo puede retornar una etiqueta a la vez
             // Esto de momento no es htm
